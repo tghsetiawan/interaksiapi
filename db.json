@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1579156591556,
+      "title": "Belajar ReactJS",
+      "body": "Konten Belajar ReactJS",
+      "userId": 1
+    },
+    {
+      "id": 1579156605463,
+      "title": "Belajar React Native",
+      "body": "Kontent Belajar React Native",
+      "userId": 1
+    },
+    {
+      "id": 1579264021735,
+      "title": "Tutorial Java Script 1",
+      "body": "isi kontent tutorial java script 1",
+      "userId": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

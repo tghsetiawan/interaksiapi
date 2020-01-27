@@ -1,0 +1,2 @@
+json-server --watch db.json --port 3004
+json-server db.json --static ./Users/teguh/Documents/ReactJS/interaksiapi
